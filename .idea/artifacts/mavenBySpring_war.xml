@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenBySpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="saas.war">
+      <element id="artifact" artifact-name="mavenBySpring:war exploded" />
+    </root>
+  </artifact>
+</component>
